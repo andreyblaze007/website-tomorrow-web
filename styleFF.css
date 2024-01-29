@@ -1,0 +1,35 @@
+#prem{
+    background-color: #38003c;
+    height: 100%;
+}
+#titleFF{
+    text-align: center;
+    color:#00ff85;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+h1{
+    color:#04f5ff;
+    font-size:20px;
+}
+#match{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    width: 600px;
+    align-items: center;
+}
+img{
+    width:40px;
+    height:50px;
+}
+#time{
+    text-align: center;
+    font-size:24px;
+    color:	#e90052;
+}
+#matches{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
